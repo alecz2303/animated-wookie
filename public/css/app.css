@@ -1,0 +1,55 @@
+@import url(//fonts.googleapis.com/css?family=Lato:700);
+@import url(//fonts.googleapis.com/css?family=Oswald:400,700|Open+Sans+Condensed:300);
+@import url(//fonts.googleapis.com/css?family=Pompiere);
+
+body{
+	background-image: url('../img/FONDO.png');
+}
+
+.container{
+	margin-top: 10px;
+}
+
+.revista{
+	margin: auto;
+	box-shadow: 10px 10px 5px rgba(0,0,0,.4);
+
+	height: 600px;
+}
+
+.small {
+    margin: -502px 0 0 0;
+}
+
+.revista img{
+	height: 100%;
+}
+
+.bienvenida{
+	margin-top: 10px;
+	background-image: url('../img/BIENVENIDA.png');
+	background-size: cover ;
+	width: 570px;
+	height: 500px;
+}
+
+.boton-menu{
+	margin-top: 4px;
+}
+
+.noticias{
+	margin-top: 85px;
+}
+
+.noticias2{
+	margin-top: 5px;
+}
+
+.noticia{
+	font-family: 'Oswald', sans-serif;
+	padding: 20px;
+	background-image: url('../img/PANEL_PARA_NOTAS.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
